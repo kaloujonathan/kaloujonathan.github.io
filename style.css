@@ -1,0 +1,39 @@
+body,
+html{ 
+    width: 100%;
+    height: 100%;
+    
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color:rgba(192, 192, 192, 0.9); 
+    font-weight: 700;}
+    .topnav {
+        font-size: 16px;
+        background: rgba(192, 192, 192, 0.9);}
+        #myname{color: rgb(255, 127, 127)  }
+        #myname{text-decoration: underline;}
+        h1,h3{ text-align: center;}
+        #tA1{width: 250px;height: 250px;
+            margin: auto 450px;}
+            #tA{background-color: aquamarine;}
+            h2{background-color: aquamarine;}
+            h1,h3{background-image:url(https://lh3.googleusercontent.com/a/ACg8ocKujR3l6WkqaQYTkJSNADE5cHwIhwCStxMYe3L7UipoJ1A=s432-c-no)}
+            .titre2{width: 150px;
+                height: 150px;
+            border-radius: 150px;}
+            .competences h4{
+                 text-decoration:underline ;
+                 text-align: center;}
+       @media screen (min-width:320px)  (max-width:768px) {
+        body {
+            background-color:rgba(192, 192, 192, 0.9); 
+        }
+       }      
+            
