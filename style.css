@@ -24,7 +24,8 @@ h6 {
             margin: auto 450px;}
             #tA{background-color: aquamarine;}
             h2{background-color: aquamarine;}
-            h1,h3{background-image:url(https://lh3.googleusercontent.com/a/ACg8ocKujR3l6WkqaQYTkJSNADE5cHwIhwCStxMYe3L7UipoJ1A=s432-c-no)}
+            h1,h3{background-image:url(https://lh3.googleusercontent.com/a/ACg8ocKujR3l6WkqaQYTkJSNADE5cHwIhwCStxMYe3L7UipoJ1A=s432-c-no)
+            }
             .titre2{width: 150px;
                 height: 150px;
             border-radius: 150px;}
@@ -35,5 +36,8 @@ h6 {
         body {
             background-color:rgba(192, 192, 192, 0.9); 
         }
-       }      
+       }  
+       h1{
+        color: white;
+       }    
             
